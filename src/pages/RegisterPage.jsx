@@ -9,8 +9,8 @@ import {
   HiOutlineEyeOff,
 } from "react-icons/hi";
 
-import logo from "../../public/logo.png";
-import registerImage from "../../public/illustrasi-login.png";
+import logo from "../assets/logo.png";
+import registerImage from "../assets/illustrasi-login.png";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { registerUser } from "../features/auth/authSlice";

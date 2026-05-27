@@ -16,8 +16,8 @@ import {
   HiOutlineEyeOff,
 } from "react-icons/hi";
 
-import logo from "../../public/logo.png";
-import loginImage from "../../public/illustrasi-login.png";
+import logo from "../assets/logo.png";
+import loginImage from "../assets/illustrasi-login.png";
 
 import { loginUser } from "../features/auth/authSlice";
 
