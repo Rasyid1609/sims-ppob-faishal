@@ -17,7 +17,7 @@ import {
 } from "react-icons/hi";
 
 import logo from "../assets/Logo.png";
-import loginImage from "../assets/illustrasi-login.png";
+import loginImage from "../assets/Illustrasi-login.png";
 
 import { loginUser } from "../features/auth/authSlice";
 

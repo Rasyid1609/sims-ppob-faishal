@@ -10,7 +10,7 @@ import {
 } from "react-icons/hi";
 
 import logo from "../assets/Logo.png";
-import registerImage from "../assets/illustrasi-login.png";
+import registerImage from "../assets/Illustrasi-login.png";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { registerUser } from "../features/auth/authSlice";
